@@ -6,13 +6,13 @@ Este repositório contém uma calculadora básica desenvolvida em Python, criada
 ## Funcionalidades
 Operações Matemáticas: Permite realizar as seguintes operações:
 
-  Soma
-  Subtração
-  Multiplicação
-  Divisão
-  Cálculo de Porcentagem
-  Cálculo de Raiz Quadrada
-  Tratamento de Erros: Inclui verificações para entradas inválidas e uma condição específica para evitar divisão por zero, garantindo maior robustez.
+Soma
+Subtração
+Multiplicação
+Divisão
+Cálculo de Porcentagem
+Cálculo de Raiz Quadrada
+Tratamento de Erros: Inclui verificações para entradas inválidas e uma condição específica para evitar divisão por zero, garantindo maior robustez.
 
 ## Principais Ajustes
 Entrada de Dados: Ajuste do tipo de entrada de int para float, permitindo cálculos mais precisos com valores decimais.
