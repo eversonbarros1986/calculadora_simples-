@@ -30,4 +30,7 @@ Biblioteca Math (para cálculos de raiz quadrada)
 Estrutura do Código
 O código é dividido em funções, cada uma responsável por uma operação matemática específica. O programa apresenta um menu interativo para o usuário selecionar a operação desejada e processa as entradas de forma robusta.
 
+### Contribuições
+Contribuições são bem-vindas! Se você tem sugestões para melhorias ou correções, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
 
