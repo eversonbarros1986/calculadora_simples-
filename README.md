@@ -15,12 +15,12 @@ Cálculo de Raiz Quadrada
 Tratamento de Erros: Inclui verificações para entradas inválidas e uma condição específica para evitar divisão por zero, garantindo maior robustez.
 
 ## Principais Ajustes
-Entrada de Dados: Ajuste do tipo de entrada de int para float, permitindo cálculos mais precisos com valores decimais.
+Entrada de Dados: Ajuste do tipo de entrada de int para float, permitindo cálculos mais precisos com valores decimais.  
 Nova Funcionalidade: Adição da opção de calcular a raiz quadrada, permitindo que os usuários realizem operações mais avançadas.
 
 Explicação das Alterações
-Função square_root(x): Calcula a raiz quadrada do número x utilizando math.sqrt().
-Opção de Menu: Adicionada a opção 6 para "Raiz Quadrada".
+Função square_root(x): Calcula a raiz quadrada do número x utilizando math.sqrt().  
+Opção de Menu: Adicionada a opção 6 para "Raiz Quadrada".  
 Tratamento da Operação: Ao escolher a raiz quadrada, o programa solicita apenas um número.
 
 ## Tecnologias Utilizadas
