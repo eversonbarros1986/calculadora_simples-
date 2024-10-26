@@ -18,11 +18,15 @@ Tratamento de Erros: Inclui verificações para entradas inválidas e uma condi�
 Entrada de Dados: Ajuste do tipo de entrada de int para float, permitindo cálculos mais precisos com valores decimais.
 Nova Funcionalidade: Adição da opção de calcular a raiz quadrada, permitindo que os usuários realizem operações mais avançadas.
 
+Explicação das Alterações
+Função square_root(x): Calcula a raiz quadrada do número x utilizando math.sqrt().
+Opção de Menu: Adicionada a opção 6 para "Raiz Quadrada".
+Tratamento da Operação: Ao escolher a raiz quadrada, o programa solicita apenas um número.
+
 # Tecnologias Utilizadas
 Python 3
 Biblioteca Math (para cálculos de raiz quadrada)
 Estrutura do Código
 O código é dividido em funções, cada uma responsável por uma operação matemática específica. O programa apresenta um menu interativo para o usuário selecionar a operação desejada e processa as entradas de forma robusta.
 
-Exemplo de Uso
-O usuário é solicitado a escolher uma operação e a fornecer os números necessários. Aqui está um exemplo de como o menu é apresentado:
+
