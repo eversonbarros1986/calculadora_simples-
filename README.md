@@ -26,6 +26,7 @@ Tratamento da Operação: Ao escolher a raiz quadrada, o programa solicita apena
 # Tecnologias Utilizadas
 Python 3
 Biblioteca Math (para cálculos de raiz quadrada)
+
 Estrutura do Código
 O código é dividido em funções, cada uma responsável por uma operação matemática específica. O programa apresenta um menu interativo para o usuário selecionar a operação desejada e processa as entradas de forma robusta.
 
