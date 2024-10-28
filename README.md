@@ -16,7 +16,7 @@ Tratamento de Erros: Inclui verificações para entradas inválidas e uma condi�
 
 ## Principais Ajustes
 Entrada de Dados: Ajuste do tipo de entrada de int para float, permitindo cálculos mais precisos com valores decimais.  
-Nova Funcionalidade: Adição da opção de calcular a raiz quadrada, permitindo que os usuários realizem operações mais avançadas.
+Nova Funcionalidade: Adição da opção de calcular a porcetagem e raiz quadrada, permitindo que os usuários realizem operações mais avançadas.
 
 ### Explicação das Alterações  
 Função percentage(x, y): Calcula a porcentagem de x em relação a y, utilizando a fórmula (x * y) / 100.  
